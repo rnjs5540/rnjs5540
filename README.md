@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnjs5540&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnjs5540&layout=compact&theme=dracula)](https://github.com/rnjs5540/github-readme-stats)
 
-<div align="center"></div>
-  <center><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"/></center>
+<div align="center"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"/></div>

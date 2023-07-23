@@ -1,5 +1,5 @@
 ### Hi there 👋
-경북대학교 컴퓨터학부 재학중인 3학년 학부생입니다!
+경북대학교 컴퓨터학부 3학년 학부생입니다!
 
 <!--
 **rnjs5540/rnjs5540** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

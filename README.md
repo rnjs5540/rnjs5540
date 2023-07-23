@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rnjs5540)](https://solved.ac/rnjs5540)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnjs5540&layout=compact)](https://github.com/rnjs5540/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnjs5540&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnjs5540&show_icons=true&theme=synthwave)
 
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"/>

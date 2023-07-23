@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rnjs5540)](https://solved.ac/rnjs5540)
